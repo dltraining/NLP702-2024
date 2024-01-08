@@ -33,4 +33,4 @@
 ## 3. Course syllabus
 | Teaching Week | Topic | Leture | Lab |
 | ----  | ------ | ------- | ------- |
-| 1 | Course Overview & LLMS in NLP  | Self-supervised learning; Attention and transformer variations; Masked language models: encoder-only and encoder-decoder  | [NumPy](tutorials/week-1/intro_to_numpy_pytorch/numpy_tutorial.ipynb); [PyTorch](tutorials/week-1/intro_to_numpy_pytorch/pytorch_tutorial.ipynb); [Practice text classification with attention-based RNNs](tutorials/week-1/text_classification_attention/rnn_attention_tutorial.ipynb); [Transformer architecture](tutorials/week-1/transformer/transformer_tutorial.ipynb); [Pretraining of Encoder-only model](tutorials/week-1/MLM-pretraining)| 
+| 1 | Course Overview & LLMS in NLP  | Self-supervised learning; Attention and transformer variations; Masked language models: encoder-only and encoder-decoder  | [NumPy](tutorials/week-1/intro_to_numpy_pytorch/numpy_tutorial.ipynb); [PyTorch](tutorials/week-1/intro_to_numpy_pytorch/pytorch_tutorial.ipynb); [Transformer architecture](tutorials/week-1/transformer/transformer_tutorial.ipynb)| 
