@@ -33,4 +33,5 @@
 ## 3. Course syllabus
 | Teaching Week | Topic | Leture | Lab |
 | ----  | ------ | ------- | ------- |
-| 1 | Course Overview & LLMS in NLP  | Self-supervised learning; Attention and transformer variations; Masked language models: encoder-only and encoder-decoder  | [NumPy](tutorials/week-1/intro_to_numpy_pytorch/numpy_tutorial.ipynb); [PyTorch](tutorials/week-1/intro_to_numpy_pytorch/pytorch_tutorial.ipynb); [Transformer architecture](tutorials/week-1/transformer/transformer_tutorial.ipynb)| 
+| 1 | Course Overview & LLMS in NLP  | Self-supervised learning; Attention and transformer variations; Masked language models: encoder-only and encoder-decoder  | [NumPy](tutorials/week-1/intro_to_numpy_pytorch/numpy_tutorial.ipynb); [PyTorch](tutorials/week-1/intro_to_numpy_pytorch/pytorch_tutorial.ipynb)| 
+| 2 | Causal LMs (CLMs) | Generative pretraining; Use of CLMs, EEval of CLMs  | [Transformer architecture](tutorials/week-1/transformer/transformer_tutorial.ipynb); Pretraining of GPT2; Calculating perplexity| 
