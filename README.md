@@ -31,9 +31,12 @@
    (6) Jacob Eisenstein. Introduction to Natural Language Processing. 2019, MIT Press, ISBN 9780262042840.
 
 ## 3. Course syllabus
-| Teaching Week | Topic | Leture | Lab |
+| Teaching Week | Topic | Lecture | Lab |
 | ----  | ------ | ------- | ------- |
 | 1 | Course Overview & LLMS in NLP  | Self-supervised learning; Attention and transformer variations; Masked language models: encoder-only and encoder-decoder  | [NumPy](tutorials/week-1/intro_to_numpy_pytorch/numpy_tutorial.ipynb); [PyTorch](tutorials/week-1/intro_to_numpy_pytorch/pytorch_tutorial.ipynb)| 
 | 2 | Causal LMs (CLMs) | Generative pretraining; Use of CLMs, EEval of CLMs  | [Transformer architecture](tutorials/week-2/transformer/transformer_tutorial.ipynb); [Pretraining of GPT2](tutorials/week-2/GPT/GPT_Tutorial.ipynb); [Calculating perplexity](tutorials/week-2/Perplexity/Perplexity_Tutorial.ipynb)| 
 | 3 | Instruction Tuning | Instruction Finetuning and Evaluation | [Instruction tuning](tutorials/week-3/Instruction-Tuning.ipynb) |
 | 4 | LLM Prompting | Model Prompting | [Encoder-only model prompting](tutorials/week-4/prompt/Encoder-only_model_prompt.ipynb); [Pmompt engineering](tutorials/week-4/prompt/Prompt_Engineering.ipynb) |
+| 5 | Knowledge Distillation | Knowledge Distillation | [Knowledge Distillation](tutorials/week-5/kd.ipynb)|
+---
+
