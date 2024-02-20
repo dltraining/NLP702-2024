@@ -39,5 +39,6 @@
 | 4 | LLM Prompting | Model Prompting | [Encoder-only model prompting](tutorials/week-4/prompt/Encoder-only_model_prompt.ipynb); [Pmompt engineering](tutorials/week-4/prompt/Prompt_Engineering.ipynb) |
 | 5 | Knowledge Distillation | Knowledge Distillation | [Knowledge Distillation](tutorials/week-5/kd.ipynb)|
 | 6 | Parameter-efficient finetuning | LoRA | [LoRA](tutorials/week-6/LoRA-Student.ipynb)|
+| 7 | Mixture-of-Expert | MoE | [MoE](tutorials/week-7/Student_Week_7_Mixture_of_Experts.ipynb)|
 ---
 
