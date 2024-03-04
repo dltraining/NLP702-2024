@@ -41,7 +41,7 @@
 | 6 | Parameter-efficient finetuning | LoRA | [LoRA](tutorials/week-6/LoRA-Student.ipynb)|
 | 7 | Mixture-of-Expert | MoE | [MoE](tutorials/week-7/Student_Week_7_Mixture_of_Experts.ipynb)|
 | 8 | Mamba | Mamba | [Mamba](tutorials/week-8/Week 8 - Mamba (Practice).ipynb)|
-| 9 | Red Teaming | Red Teaming | [Red_Teaming](tutorials/week-9/red-teaming-slides.pdf)|
+| 9 | Red Teaming | Red Teaming | [Red_Teaming](tutorials/week-9/nlp702_2024_w09-lab_mam-mbzuai.pdf)|
 
 ---
 
