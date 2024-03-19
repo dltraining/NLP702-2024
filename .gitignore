@@ -164,3 +164,10 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+.ipynb_checkpoints/
+tutorials/week-11/.ipynb_checkpoints
+tutorials/week-10/seq2seq_attention/.ipynb_checkpoints
+tutorials/week-10/T5_Translation/.ipynb_checkpoints
+tutorials/week-4/prompt/.ipynb_checkpoints
+tutorials/week-1/intro_to_numpy_pytorch/.ipynb_checkpoints
