@@ -1,0 +1,26 @@
+Completeness:
+1. Includes all essential information from the source text without omission.
+2. Captures main ideas, key details, and nuances accurately.
+
+Accuracy:
+1. Reflects the meaning and intent of the source text faithfully without distortion.
+2. Translates vocabulary, idiomatic expressions, and technical terms accurately.
+
+Consistency:
+1. Maintains terminology, style, and tone consistency throughout the translation.
+2. Ensures coherence and clarity across sentences and paragraphs.
+
+Format Compliance:
+1. Adheres to the required format or structure specified for the target text, if applicable.
+2. Follows any formatting guidelines provided, such as headings, bullet points, or paragraphs.
+
+Originality:
+1. Demonstrates originality and independent generation.
+2. Avoids verbatim repetition of source text and introduces variation in language usage.
+
+Ratings:
+1: The translation significantly lacks completeness, accuracy, consistency, format compliance, and originality.
+2: The translation is deficient in several aspects, with notable deficiencies in completeness, accuracy, consistency, format compliance, or originality.
+3: The translation is average, with some shortcomings in completeness, accuracy, consistency, format compliance, or originality.
+4: The translation is good, with minor issues in completeness, accuracy, consistency, format compliance, or originality.
+5: The translation is exceptional, meeting all criteria with no issues whatsoever.

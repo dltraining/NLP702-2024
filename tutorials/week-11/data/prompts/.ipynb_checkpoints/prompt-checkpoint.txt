@@ -1,0 +1,12 @@
+Evaluate the provided translation from {src_lang} to {tgt_lang} according to the following criteria:
+
+Guideline:
+{guideline}
+
+{src_lang}: {source}
+{tgt_lang}: {target}
+
+Please assign a rating from 1 to 5 based on how well the translation adheres to the provided guidelines. Provide only a rating nothing else.
+
+Rating: []
+
